@@ -52,12 +52,7 @@ While quantum computing promises revolutionary advances, realistic assessment of
 
 ```
 quantum-stroke-prediction/
-├── data/
-│   └── healthcare-dataset-stroke-data.csv (download separately)
-├── results/
-│   ├── visualizations/
-│   ├── models/
-│   └── FINAL_REPORT.txt
+
 ├── src/
 │   ├── 1_data_preprocessing.py
 │   ├── 2_classical_models.py
@@ -65,7 +60,8 @@ quantum-stroke-prediction/
 │   └── 4_comparison_analysis.py
 ├── requirements.txt
 ├── README.md
-└── LICENSE
+└── QUICK_START.md
+
 ```
 
 ## 🚀 Getting Started
@@ -192,3 +188,4 @@ Sample outputs saved in `results/` directory.
 ---
 
 **Note**: This is an educational project demonstrating quantum machine learning concepts. The quantum classifier's performance reflects the current state of quantum computing technology (2025) and serves as a realistic baseline for future improvements as quantum hardware advances.
+
