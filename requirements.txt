@@ -1,0 +1,17 @@
+# Quantum Computing Libraries
+qiskit==1.0.2
+qiskit-machine-learning==0.7.2
+qiskit-algorithms==0.3.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+scikit-learn==1.4.0
+imbalanced-learn==0.12.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# Utility
+joblib==1.3.2
